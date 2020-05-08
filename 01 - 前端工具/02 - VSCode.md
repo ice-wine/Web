@@ -28,7 +28,6 @@ mac为例：
 
 ​	ctrl + tab：切换标签
 
-![image-20200508164721956](/Users/wm/Library/Application Support/typora-user-images/image-20200508164721956.png)
 
 #### 常用插件
 
